@@ -38,6 +38,6 @@ document_outline: |
   Details and repair costs on a DeLorean DMC-12 car.
 document:
   repo: https://github.com/poonamzham/backToTheFuture.git
-  commit: 
+  commit: 7365c95eac6482fd8e183e4615d9d8098699be04
   patterns:
     - data.md
